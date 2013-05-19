@@ -1,0 +1,10 @@
+CHANGES
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+dist.ini
+lib/AnyMerchant.pm
+lib/AnyMerchant/Gateway.pm
