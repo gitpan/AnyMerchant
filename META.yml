@@ -21,4 +21,4 @@ requires:
 resources:
   bugtracker: https://github.com/ironcamel/AnyMerchant/issues
   repository: https://github.com/ironcamel/AnyMerchant.git
-version: 0.0001
+version: 0.0002

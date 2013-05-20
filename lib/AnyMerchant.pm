@@ -2,7 +2,7 @@ package AnyMerchant;
 use strict;
 use warnings;
 
-our $VERSION = '0.0001'; # VERSION
+our $VERSION = '0.0002'; # VERSION
 
 use Carp qw(croak);
 use Scalar::Util qw(blessed);
@@ -34,7 +34,7 @@ AnyMerchant - A generic and consistent interface for online payment services
 
 =head1 VERSION
 
-version 0.0001
+version 0.0002
 
 =head1 SYNOPSIS
 
